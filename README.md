@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Regression
 
 We looked at features for over 20k homes in Kings County. Developed and tested models that would accurately predict the price of homes in KC.
@@ -19,4 +18,4 @@ We looked at features for over 20k homes in Kings County. Developed and tested m
    - Scikit Learn
 =======
 # KC-Housing-Regression
->>>>>>> 27d935cf5d78329f40253a89a16a67173c18ac14
+
