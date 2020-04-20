@@ -26,7 +26,7 @@ id, date, price, bedrooms, bathrooms, sqft_living, sqft_loft, floors, waterfront
 
 ## Modeling
 After cleaning the data, examining various correlations, feature engineering, and determining it the dataset was a good candidate for a Linear Regression, we were able to run a model and achieve an accuracy rate of 77%. 
-![](/Desktop/ols_results.png)
+![](images/ols_results.png)
 
  
 
