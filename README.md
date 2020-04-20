@@ -1,14 +1,14 @@
-# Regression
-
-We looked at features for over 20k homes in Kings County. Developed and tested models that would accurately predict the price of homes in KC.
+# Kc Housing Regression
 
 ## Project Purpose and Description
- - The goal of this project was to create and test a predictive model 
- 
+
+In this project, we looked at the the various features that influence the price of a home in King's County.  We analyzed  these features, developed and tested models that would predict the price of the home.
+
 ## Data:
- 
-- **Kaggle**
-- Kings County Housing
+The data used was in the form of a csv from Kaggle.
+<ins> Features </ins>
+id, date, price, bedrooms, bathrooms, sqft_living, sqft_loft, floors, waterfront, view, condition, grade, sqft_above, sqft_basement, yr_built, yr_renovated, zipcode, latitude, and longitude. 
+![](images/hist.png)
 
 	
 ## Tools (all in Python):
