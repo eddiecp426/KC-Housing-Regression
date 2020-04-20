@@ -1,4 +1,4 @@
-# Kc Housing Regression
+# KC Housing Regression
 
 ## Project Purpose and Description
 
@@ -8,6 +8,8 @@ In this project, we looked at the the various features that influence the price 
 The data used was in the form of a csv from Kaggle.
 
 <ins> Features </ins>
+
+Over 20,000 data points
 
 id, date, price, bedrooms, bathrooms, sqft_living, sqft_loft, floors, waterfront, view, condition, grade, sqft_above, sqft_basement, yr_built, yr_renovated, zipcode, latitude, and longitude. 
 ![](images/hist.png)
@@ -22,4 +24,9 @@ id, date, price, bedrooms, bathrooms, sqft_living, sqft_loft, floors, waterfront
 ## Taking a Closer Look at the Data
 ![](images/corr.png)
 
+## Modeling
+After cleaning the data, examining various correlations, feature engineering, and determining it the dataset was a good candidate for a Linear Regression, we were able to run a model and achieve an accuracy rate of 77%. 
+![](/Desktop/ols_results.png)
+
+ 
 
