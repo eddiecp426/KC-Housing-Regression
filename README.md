@@ -6,7 +6,9 @@ In this project, we looked at the the various features that influence the price 
 
 ## Data:
 The data used was in the form of a csv from Kaggle.
+
 <ins> Features </ins>
+
 id, date, price, bedrooms, bathrooms, sqft_living, sqft_loft, floors, waterfront, view, condition, grade, sqft_above, sqft_basement, yr_built, yr_renovated, zipcode, latitude, and longitude. 
 ![](images/hist.png)
 
