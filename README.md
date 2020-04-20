@@ -13,11 +13,13 @@ id, date, price, bedrooms, bathrooms, sqft_living, sqft_loft, floors, waterfront
 ![](images/hist.png)
 
 	
-## Tools (all in Python):
-   - pandas
-   - Seaborn/Matplotlib
-   - SciPy/NumPy
+## Tools (all using Python and its various libraries)
+   - Pandas
+   - Numpy
+   - Seaborn
+   - Matplotlib
    - Scikit Learn
-=======
-# KC-Housing-Regression
+## Taking a Closer Look at the Data
+![](images/corr.png)
+
 
