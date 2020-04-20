@@ -25,6 +25,18 @@ id, date, price, bedrooms, bathrooms, sqft_living, sqft_loft, floors, waterfront
 ![](images/corr.png)
 
 ## Modeling
-After cleaning the data, examining various correlations, feature engineering, and determining it the dataset was a good candidate for a Linear Regression, we were able to run a model and achieve an accuracy rate of 77%. To do some further modeling, we also used a Ridge Regression which yielded an 86% accuaracy rate.	  
- 
+After cleaning the data, examining various correlations, feature engineering, and determining it the dataset was a good candidate for a Linear Regression, we were able to run a model and achieve an accuracy rate of 77%. 
 
+<br/>
+ 
+<img src="images/ols_results.png" width="500">
+
+## Probability Plot
+![](images/qqplot.png)
+
+## Conclusion and Future work
+
+In our final model, we achieved an adjusted r-squared value of 85% using a Ridge Regression.  Using the evaluation metric mean absolute error, we were able to pedict the price of a home within roughly $100,000. Although not excellent, the result was adequate.  In the future, we would like to explore using other models such as the Lasso Regression or a Neural Network. 
+
+
+![](images/lrprediction.png)
